@@ -1,8 +1,7 @@
 # Welcome to the ww2 visual essays website.
 
 
-
-More information can be found on the [Juncture web site](https://juncture-digital.org) and in the online [User guide](https://github.com/JSTOR-Labs/juncture/wiki).
+[my new essay](https://jamesjj1979.github.io/page-1)
 
 
 
