@@ -1,4 +1,4 @@
-# Welcome to the ww2 visual essays website.
+# Welcome to the www2 visual essays website.
 
 [my new essay](https://jamesjj1979.github.io/us-enters-ww2)
 
