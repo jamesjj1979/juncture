@@ -229,6 +229,6 @@ This a brief overview of America and there entering the war. If you would like t
        label="WW2 in the flesh" 
        description="WW2" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/6/66/N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
 
 [here](https://en.wikipedia.org/wiki/World_War_II)
