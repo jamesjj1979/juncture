@@ -19,7 +19,7 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
-- label: U.S. Enters WW2
+- label: Enters WW2
   icon: fas fa-file-code
   action: load-page
   path: /sample-essay
