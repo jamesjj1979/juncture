@@ -222,9 +222,8 @@ Here is the timeline!!
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go 
 <param ve-image 
-       label="WW2 in the flesh" 
-       description="WW2" 
+       label="test"testing" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Danzig_Police_at_Polish_Border_%281939-09-01%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_National_World_War_II_Memorial.jpg/1920px-Aerial_view_of_National_World_War_II_Memorial.jpg">
 
 [here](https://en.wikipedia.org/wiki/World_War_II)
