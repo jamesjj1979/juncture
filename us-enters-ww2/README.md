@@ -228,8 +228,9 @@ Here is the timeline!!
 # Summery
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
+efwfwef
 <param ve-image 
-       label="WW2" 
+       label="WW2 in the flesh" 
        description="WW2" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/9d/2-8_Field_Regt.jpg">
