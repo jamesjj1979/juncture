@@ -224,6 +224,6 @@ This a brief overview of America and there entering the war. If you would like t
 <param ve-image 
        label="test"testing" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_National_World_War_II_Memorial.jpg/1920px-Aerial_view_of_National_World_War_II_Memorial.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/66/N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg">
 
 [here](https://en.wikipedia.org/wiki/World_War_II)
