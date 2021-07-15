@@ -1,7 +1,7 @@
-title: WW2 Historical Visual Essays Site
-tagline: A Collections of Visual Essays Pertaining to WW2
+title: Juncture
+tagline: The Visual Essay Framework from JSTOR Labs
 description: Juncture - An easy-to-use framework for building interactive visual essays and websites.
-banner: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Approaching_Omaha.jpg/1920px-Approaching_Omaha.jpg
+banner: https://picsum.photos/id/857/1000/400
 #favicon: <favicon url>
 #logo: <logo url>
 
@@ -20,7 +20,8 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
- 
+
+# If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
   to:
