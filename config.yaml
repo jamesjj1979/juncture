@@ -22,7 +22,7 @@ nav:
 - label: Enters WW2
   icon: fas fa-file-code
   action: load-page
-  path: ww2/
+  path: README.md/
   
 # If a contact-us action is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
