@@ -20,7 +20,7 @@ nav:
 - label: View page source
   icon: fas fa-file-code
   action: view-markdown
-  label: My new essay
+  label: my new essay
   icon: fas fa-file-code
   action: load-page
   path: /sample-essay
