@@ -222,7 +222,8 @@ Here is the timeline!!
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go 
 <param ve-image 
-       label="test"testing" 
+       label="testtesting" 
+       description="Washin" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/6/66/N%C3%BCrnberg_Reichsparteitag_Hitler_retouched.jpg">
 
