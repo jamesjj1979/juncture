@@ -1,6 +1,6 @@
 # Welcome to the ww2 visual essays website.
 
-[Enters WW2](https://jamesjj1979.github.io/ww2)
+[Enters WW2](https://jamesjj1979.github.io/ww2/ww2)
 
 
 
