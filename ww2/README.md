@@ -45,7 +45,7 @@ This a brief overview of America and there entering the war. If you would like t
        label="President Roosevelt, wearing a black armband, signs the United States’ declaration of war against Japan." 
        description="Roosevelt declaring war on Japan" 
        license="public domain" 
-       url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-514080362-142af7b.jpg?webp=true&quality=90&resize=518%2C413">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Tunis_1943_LOC_fsa.8d29802.jpg">
 
 # America: The Why, How and When, along with why they did not enter the war sooner.
 
