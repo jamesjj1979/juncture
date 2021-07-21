@@ -39,15 +39,6 @@
 <param ve-entity eid="Q916958"> <!--presidents park  -->
 <param ve-entity eid="Q"> <!--  -->
 
-# intro
-
-This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
-  <param ve-image 
-       label="Seen in 1986 with Ford Island in center. The Arizona memorial is the small white dot on the left side above Ford Island" 
-       description="Pearl Harbor pic with rhe uss Arizona" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
-
 
 # America: The Why, How and When, along with why they did not enter the war sooner.
 
@@ -228,4 +219,11 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
 Here is the timeline!!
 <param ve-knightlab-timeline="h" source="10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650" timenav-position="bottom" hash-bookmark="false" initial-zoom="0" height="550">
 
+# intro
 
+This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
+  <param ve-image 
+       label="Seen in 1986 with Ford Island in center. The Arizona memorial is the small white dot on the left side above Ford Island" 
+       description="Pearl Harbor pic with rhe uss Arizona" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
