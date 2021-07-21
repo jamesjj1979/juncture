@@ -224,8 +224,8 @@ Here is the timeline!!
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
 <param ve-image 
-       label="President Roosevelt, wearing a black armband, signs the United States’ declaration of war against Japan." 
-       description="Roosevelt declaring war on Japan" 
+       label=2 soldiers in ww2" 
+       description="2 soldiers" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/10/Marines_resting_at_Peleliu_battlefield_%2836084410265%29.png">
 
