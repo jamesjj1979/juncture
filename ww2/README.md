@@ -221,14 +221,10 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
 Here is the timeline!!
 <param ve-knightlab-timeline="h" source="10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650" timenav-position="bottom" hash-bookmark="false" initial-zoom="0" height="550">
 
+# More Info
 
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
-<param ve-image 
-       label="Hitler visits Paris with architect Albert Speer (left) and sculptor Arno Breker (right), 23 June 1940" 
-       description="Hitler in front of the eiffle tower" 
-       license="public domain" 
-       fit="scale-down"
-       url="https://upload.wikimedia.org/wikipedia/commons/1/10/Marines_resting_at_Peleliu_battlefield_%2836084410265%29.png">
+
 
 
 
