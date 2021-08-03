@@ -1,3 +1,5 @@
+<param ve-config title="Plant Humanities" layout="index" header="plants-index">
+
 # Welcome to the ww2 visual essays website.
 
 
