@@ -46,7 +46,7 @@
 
 ## WW1 compaired to WW2
 
-<component ve-something>
+<component ve-something><component>
 The beginning of World War I was simpler than the beginning of World War II. August 1914 saw a ‘big bang’ outbreak, with the five most powerful major European powers thrown immediately into conflict. September 1939 was the beginning of a war between only three major European powers (Britain, France and Germany). They were followed in June 1940 by Italy, in June 1941 by Russia, and in December 1941 by Japan and the USA – though the conflict as a whole had actually began in July 1937 with war between China and Japan.
 <param ve-image 
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
