@@ -11,6 +11,9 @@
 
 
 ##
+
+![concentration campo img](https://upload.wikimedia.org/wikipedia/commons/a/a5/Hinzert_Memorial_Nazi_Concentration_Camp_01.jpg)
+
 [Concentration Camps](https://jamesjj1979.github.io/ww2/concentrationcamps)
 
 
