@@ -48,6 +48,7 @@
 
 <component ve-something><component>
 The beginning of World War I was simpler than the beginning of World War II. August 1914 saw a ‘big bang’ outbreak, with the five most powerful major European powers thrown immediately into conflict. September 1939 was the beginning of a war between only three major European powers (Britain, France and Germany). They were followed in June 1940 by Italy, in June 1941 by Russia, and in December 1941 by Japan and the USA – though the conflict as a whole had actually began in July 1937 with war between China and Japan.
+       <component ve-new-component>
 <param ve-image 
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
        description="Presedent Franklin D Roosevelt." 
@@ -87,7 +88,6 @@ Congress, however – although both houses were controlled by the Democrats – 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 
 In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. In addition, the slow recovery from the Great Depression, with continuing high unemployment and farm problems, seemed to demand a concentration of effort on recovery at home rather than adventures abroad.
-       <component ve-new-component><component>
 <param ve-image 
        label="In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. " 
        description="Americans seniment agenst war" 
