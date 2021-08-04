@@ -1,6 +1,6 @@
 <param ve-config  layout="index" >
 
-#  {cards} Welcome to the ww2 visual essays website.
+#  {cards} 
 
 
 ##
