@@ -1,6 +1,6 @@
 <param ve-config  layout="index" >
 
-#  {cards} 
+#  {.cards} 
 
 
 ##
