@@ -1,8 +1,8 @@
 <template>
   <div :style="containerStyle">
-<div class ="j">
+
   Test
-  <div>
+ 
   </div>  
 </template>
 
@@ -34,8 +34,4 @@ module.exports = {
 </script>
 
 <style>
-.j{
-font-size:50px
-
-}
 </style>
