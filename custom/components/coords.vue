@@ -158,7 +158,7 @@ module.exports = {
   }
 }
 
-L.control.mousePosition().addTo(map);
+
 </script>
 
 <style>
@@ -189,12 +189,5 @@ L.control.mousePosition().addTo(map);
     font-size: 0.9rem;
     font-weight: bold;
   }
-  .leaflet-container .leaflet-control-mouseposition {
-  background-color: rgba(255, 255, 255, 0.7);
-  box-shadow: 0 0 5px #bbb;
-  padding: 0 5px;
-  margin:0;
-  color: #333;
-  font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
-}
+
 </style>
