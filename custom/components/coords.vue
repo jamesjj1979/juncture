@@ -9,8 +9,8 @@ const viewerIcon = 'fas fa-map-marker-alt'
 const dependencies = [
   'https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css',
   'https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js',
-  "https://github.com/ardhi/Leaflet.MousePosition/blob/master/src/L.Control.MousePosition.js",
-  "https://github.com/ardhi/Leaflet.MousePosition/blob/master/src/L.Control.MousePosition.css"
+  "https://raw.githubusercontent.com/jamesjj1979/Leaflet.MousePosition/master/src/L.Control.MousePosition.js",
+  "https://raw.githubusercontent.com/jamesjj1979/Leaflet.MousePosition/master/src/L.Control.MousePosition.css"
 
 ]
 // A leaflet baselayer
@@ -87,6 +87,7 @@ module.exports = {
             maxZoom: this.maxZoom, 
             layers: [L.tileLayer(...baseLayers.OpenStreetMap)]
           })
+          L.control.mousePosition().addTo(this.map)
           this.syncLayers()
         })
       }
