@@ -1,6 +1,6 @@
 <template>
-    <div id="map" :style="containerStyle"></div>
-    L.control.mousePosition().addTo(map)
+    <div id="map" :style="containerStyle"  L.control.mousePosition().addTo(map)></div>
+
 </template>
 
 <script>
