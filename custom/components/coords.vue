@@ -156,6 +156,8 @@ module.exports = {
     }
   }
 }
+
+L.control.mousePosition().addTo(map);
 </script>
 
 <style>
