@@ -22,7 +22,7 @@ million European Jews and at least five million
 prisoners of war, Romany, Jehovah’s Witnesses,
 homosexuals, and other victims. Holocaust is a
 word of Greek origin. It means “burnt offering.” 
-<conpontnet ve-quote>
+<component ve-quotes>
 
 Anti-Semitism was a centuries-long
 phenomenon in Europe, but it reached
