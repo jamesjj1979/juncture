@@ -1,9 +1,13 @@
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
+
 <param ve-config 
        title="Americas Entry Into WW2" 
         banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
        layout="vertical">
+       
+       
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -46,7 +50,7 @@ The beginning of World War I was simpler than the beginning of World War II. Aug
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
-       <component ve-coords center="Q916958" zoom="15" tettle="something">
+<component ve-coords center="Q916958" zoom="15" tettle="something">
        
       
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
@@ -62,6 +66,7 @@ The American entry into World War I was also simpler than the American entry int
 <param ve-map center="Q127091" zoom="4" prefer-geojson>
        
 ## Intervention vs isolation: why didn’t America want to get involved?
+       
 The outbreak of full-scale conflict between Japan and China in July 1937 had little to do with the USA and its people. Neither did Germany’s pre-war actions in the 1930s: remilitarisation, sending troops into the Rhineland in 1936, forced unification with Austria, and destruction of Czechoslovakia after the 1938 Sudenten crisis. Even Hitler’s [invasion of Poland in September 1939](https://en.wikipedia.org/wiki/Invasion_of_Poland), and the declaration of war by Britain and France seemed to have little relevance to the USA. Yet President Franklin D Roosevelt, a Democrat elected for his second term of office in November 1936 also known as the  quarantine speech, had taken a public position of opposition to aggression by Japan, Italy, and Germany. He made a speech in Chicago in October 1937(Map in upper right), when he called for the “quarantine” of aggressive and warlike countries, and he also publicly condemned the nature of the Nazi government in Germany.
 <param ve-image 
        label="Last photograph of Roosevelt, taken April 11, 1945, the day before his death" 
@@ -145,6 +150,7 @@ Secret staff talks were arranged in Washington early in 1941 between British and
 <param ve-map center="Q48335" title="Newfoundland" zoom="4" prefer-geojson>
        
 ## Pearl Harbor: Did Roosevelt have knowledge ahead of the attack?
+       
 The intelligence available to Washington, mainly from communications intercepts by American codebreakers, is a complex topic. Some conspiracy theorists claimed that President Roosevelt had advance warning of the Pearl Harbor attack but let it go ahead, as the outcome would be to rally US public opinion for war; this is certainly not true. The intelligence on hand did indicate imminent Japanese action in southeast Asia (probably against Britain), but not the daring strike against Pearl Harbor.
 <param ve-image 
        label="Photograph taken from a Japanese plane during the torpedo attack on ships moored on both sides of Ford Island shortly after the beginning of the Pearl Harbor attack. View looks about east, with the supply depot, submarine base and fuel tank farm in the right center distance. A torpedo has just hit USS West Virginia on the far side of Ford Island (center)" 
