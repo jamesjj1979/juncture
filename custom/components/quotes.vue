@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div>i am working</div>
+<div>{{jim}}</div>
 
 kjbbnjbnkjbn
   </div>  
@@ -11,6 +11,7 @@ kjbbnjbnkjbn
 module.exports = {
   name: 'coords',
   props: { 
+    jim:"jim",
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
   },
