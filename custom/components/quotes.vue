@@ -1,7 +1,8 @@
 <template>
   <div :style="containerStyle">
-test
-  Test
+<div>
+i am working
+<div>
   </div>  
 </template>
 
