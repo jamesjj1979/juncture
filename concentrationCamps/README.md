@@ -28,7 +28,7 @@ word of Greek origin. It means “burnt offering.”
        label="Seen in 1986 with Ford Island in center. The Arizona memorial is the small white dot on the left side above Ford Island" 
        description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG"><param ve-map center="Q127091" zoom="4" prefer-geojson>
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG"><param ve-coords center="Q127091" zoom="4" >
 
 Anti-Semitism was a centuries-long
 phenomenon in Europe, but it reached
