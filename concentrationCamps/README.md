@@ -1,8 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Americas Entry Into WW2" 
-        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
+       title="
+Memorial to the Murdered Jews of Europe (Berlin)" 
+        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Memorial_to_the_Murdered_Jews_of_Europe_Berlin_DSC_0800.jpg/2560px-Memorial_to_the_Murdered_Jews_of_Europe_Berlin_DSC_0800.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
