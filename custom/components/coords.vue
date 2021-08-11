@@ -91,7 +91,6 @@ module.exports = {
           this.syncLayers()
         })       
       }
-       L.control.mousePosition().addTo(this.map) 
     },
     toFloatArray(str) { return str.split(',').map(num => parseFloat(num))},
     toIntArray(str) { return str.split(',').map(num => parseInt(num))},
