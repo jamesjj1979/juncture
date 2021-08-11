@@ -1,14 +1,13 @@
 <template>
   <div :style="containerStyle">
 
-<div >jbub</div>
-
+  Test
   </div>  
 </template>
 
 <script>
 module.exports = {
-  name: 'quotes',
+  name: 'coords',
   props: { 
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
@@ -34,4 +33,4 @@ module.exports = {
 </script>
 
 <style>
-
+</style>
