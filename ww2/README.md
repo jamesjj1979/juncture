@@ -40,13 +40,12 @@
 
 ## WW1 compaired to WW2
 The beginning of World War I was simpler than the beginning of World War II. August 1914 saw a ‘big bang’ outbreak, with the five most powerful major European powers thrown immediately into conflict. September 1939 was the beginning of a war between only three major European powers (Britain, France and Germany). They were followed in June 1940 by Italy, in June 1941 by Russia, and in December 1941 by Japan and the USA – though the conflict as a whole had actually began in July 1937 with war between China and Japan.
-<component ve-coords center="Q916958" zoom="15" title="WW2">
 <param ve-image 
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
-       
+       <component ve-coords center="Q916958" zoom="15" title="WW2">
        
       
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
