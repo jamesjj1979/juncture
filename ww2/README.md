@@ -1,12 +1,9 @@
 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="Americas Entry Into WW2" 
         banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/U.S._flags_on_the_National_Mall%2C_2007.jpg/1920px-                     U.S._flags_on_the_National_Mall%2C_2007.jpg" 
        layout="vertical">
-
-
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
@@ -39,21 +36,17 @@
 <param ve-entity eid="Q916958"> <!--presidents park  -->
 <param ve-entity eid="Q"> <!--  -->
 
-
-
-
 # America: The Why, How and When, along with why they did not enter the war sooner.
 
 ## WW1 compaired to WW2
-
 The beginning of World War I was simpler than the beginning of World War II. August 1914 saw a ‘big bang’ outbreak, with the five most powerful major European powers thrown immediately into conflict. September 1939 was the beginning of a war between only three major European powers (Britain, France and Germany). They were followed in June 1940 by Italy, in June 1941 by Russia, and in December 1941 by Japan and the USA – though the conflict as a whole had actually began in July 1937 with war between China and Japan.
+       <component ve-New-Component>
 <param ve-image 
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
-       <component ve-coords center="Q916958" zoom="15" title="WW2">
-  
+       
       
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
 <param ve-image 
@@ -66,10 +59,8 @@ The American entry into World War I was also simpler than the American entry int
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
 <param ve-map center="Q127091" zoom="4" prefer-geojson>
-
-
+       
 ## Intervention vs isolation: why didn’t America want to get involved?
-
 The outbreak of full-scale conflict between Japan and China in July 1937 had little to do with the USA and its people. Neither did Germany’s pre-war actions in the 1930s: remilitarisation, sending troops into the Rhineland in 1936, forced unification with Austria, and destruction of Czechoslovakia after the 1938 Sudenten crisis. Even Hitler’s [invasion of Poland in September 1939](https://en.wikipedia.org/wiki/Invasion_of_Poland), and the declaration of war by Britain and France seemed to have little relevance to the USA. Yet President Franklin D Roosevelt, a Democrat elected for his second term of office in November 1936 also known as the  quarantine speech, had taken a public position of opposition to aggression by Japan, Italy, and Germany. He made a speech in Chicago in October 1937(Map in upper right), when he called for the “quarantine” of aggressive and warlike countries, and he also publicly condemned the nature of the Nazi government in Germany.
 <param ve-image 
        label="Last photograph of Roosevelt, taken April 11, 1945, the day before his death" 
@@ -77,15 +68,15 @@ The outbreak of full-scale conflict between Japan and China in July 1937 had lit
        license="public domain" 
        fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FDR-April-11-1945.jpg/1024px-FDR-April-11-1945.jpg">
+       
 <param ve-map center="Q2122297" zoom="11" prefer-geojson>
-
 Congress, however – although both houses were controlled by the Democrats – contained strong voices opposing intervention. This opposition was based on a long-term ‘isolationist’ tradition, whose adherents did not want America – protected as it was by broad oceans – to become ‘entangled’ with foreign countries and wars overseas. Both in Congress and among the American public, this sentiment had been strengthened by the experience of World War I, which isolationists claimed America had only entered in 1917 because US manufacturers wanted to make a profit by selling munitions.
 <param ve-image 
        label="Us Congress" 
        description="A pic of the US congress floor" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-
+       
 In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. In addition, the slow recovery from the Great Depression, with continuing high unemployment and farm problems, seemed to demand a concentration of effort on recovery at home rather than adventures abroad.
 <param ve-image 
        label="In the 1930s many Americans did not want to become ensnared in a bloody war for the sake of distant China, or in what some Americans saw as war to perpetuate the British empire. " 
@@ -104,9 +95,8 @@ In the 1930s many Americans did not want to become ensnared in a bloody war for 
        license="public domain"
        fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/US_Unemployment_from_1910-1960.svg/1920px-US_Unemployment_from_1910-1960.svg.png">
-
+       
 ## Why did America change it's mind?
-
 The situation changed drastically in May and June 1940. Many Americans had expected the European War to be a protracted conflict, in which the Allies – with larger populations than Germany and global resources – would eventually gain the upper hand. Instead, Hitler’s armed forces unexpectedly won quick victories, knocking France out of the war. The Third Reich took control of western and central Europe; Mussolini’s Italy opened a new front against Britain in the Mediterranean. All this threatened, perhaps in a few months, to defeat the surviving Ally. Now it seemed that unless help was provided America might have to deal on its own with a German-dominated Europe.
 <param ve-image 
        label="Hitler visits Paris with architect Albert Speer (left) and sculptor Arno Breker (right), 23 June 1940" 
@@ -143,7 +133,7 @@ Victory at the polls allowed the re-elected Roosevelt more freedom of action, bu
        description="Signing of the lend-lease act" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Franklin_D._Roosevelt-1941.jpg">
-
+       
 Secret staff talks were arranged in Washington early in 1941 between British and American military leaders. In July 1941 Marines were sent to Iceland, relieving a British garrison. In August Roosevelt and Sir Winston Churchill staged a spectacular summit aboard warships off Newfoundland; they issued the Atlantic charter, a joint declaration opposing acts of international aggression and openly condemning Hitler the Führer of Germany and Nazism. From September the president ordered that the US Navy began escorting British convoys.
 <param ve-image 
        label="Roosevelt and Churchill during the 1941 summit aboard warships off Newfoundland." 
@@ -152,9 +142,8 @@ Secret staff talks were arranged in Washington early in 1941 between British and
        fit+"scale-down"
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-56453569-f990902.jpg?webp=true&quality=90&resize=503%2C413">
 <param ve-map center="Q48335" title="Newfoundland" zoom="4" prefer-geojson>
-
+       
 ## Pearl Harbor: Did Roosevelt have knowledge ahead of the attack?
-
 The intelligence available to Washington, mainly from communications intercepts by American codebreakers, is a complex topic. Some conspiracy theorists claimed that President Roosevelt had advance warning of the Pearl Harbor attack but let it go ahead, as the outcome would be to rally US public opinion for war; this is certainly not true. The intelligence on hand did indicate imminent Japanese action in southeast Asia (probably against Britain), but not the daring strike against Pearl Harbor.
 <param ve-image 
        label="Photograph taken from a Japanese plane during the torpedo attack on ships moored on both sides of Ford Island shortly after the beginning of the Pearl Harbor attack. View looks about east, with the supply depot, submarine base and fuel tank farm in the right center distance. A torpedo has just hit USS West Virginia on the far side of Ford Island (center)" 
@@ -186,14 +175,14 @@ One day after the Pearl Harbor attack the us declared war on the empire of Japan
        description="Roosevelt declaring war on Japan" 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-514080362-142af7b.jpg?webp=true&quality=90&resize=518%2C413">
-
+       
 Equally remarkable was the conduct of the European Axis. Roosevelt knew from messages decrypted in the week before Pearl Harbor that Germany and Italy were now prepared to go to war with the US if Japan did so. Shrewdly, in his famous Day of Infamy speech before Congress on 8 December, he did not call for a declaration of war against them, but only against Japan. In this way Germany and Italy were manoeuvred into taking the first step, declaring war on 11 December.
 <param ve-image 
        label="Roosevelt delivers the speech to Congress. Behind him are Vice President Henry A. Wallace (left) and Speaker of the House Sam Rayburn. To the right, in uniform in front of Rayburn, is Roosevelt's son James, who escorted his father to the Capitol, and served as a Marine Corps officer during World War II." 
        description=" Roosevelt's day of infammy speach" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fdr_delivers_speech.jpg">
-
+       
 Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi regime made war with America inevitable, and that there was little more the US could do to help Britain anyway. But the important thing was that his decision tied Germany (and Italy) to the perfidious Pearl Harbor attackers, and American public opinion rallied behind the globalwar. A new world order was beginning.
 <param ve-image 
        label="Hitler announces the declaration of war against the United States to the Reichstag on 11 December 1941" 
@@ -213,19 +202,9 @@ Most likly the Adolf Hitler believed that Roosevelt’s hostility to the Nazi re
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/d/db/Location_map_Washington%2C_D.C._central.png">
 <param ve-map center="Q916958" zoom="15" title="WW2 memorial is located just under the presidents park"  prefer-geojson>
-
-
-
-
+       
 # Brief overview of Germany's moves during WW2
-
 Here is the timeline!!
 <param ve-knightlab-timeline="h" source="10moSvUjc8eE0YlKTUBGgrhBmEX_nq0Sg3TOCntdZyo8&font=Default&lang=en&initial_zoom=2&height=650" timenav-position="bottom" hash-bookmark="false" initial-zoom="0" height="550">
-
 # More Info
-
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
-
-
-
-
