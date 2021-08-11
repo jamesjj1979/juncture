@@ -4,6 +4,7 @@
        title="
 Memorial to the Murdered Jews of Europe (Berlin)" 
         banner="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Memorial_to_the_Murdered_Jews_of_Europe_Berlin_DSC_0800.jpg/2560px-Memorial_to_the_Murdered_Jews_of_Europe_Berlin_DSC_0800.jpg" 
+       tagline="changed"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
