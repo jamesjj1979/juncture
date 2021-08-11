@@ -7,7 +7,7 @@ test
 
 <script>
 module.exports = {
-  name: 'Quotes',
+  name: 'quotes',
   props: { 
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
