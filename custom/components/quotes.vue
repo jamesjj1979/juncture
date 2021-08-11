@@ -3,7 +3,7 @@
 
 <div :class="jim"></div>
 
-kjbbnjbnkjbn
+k
   </div>  
 </template>
 
