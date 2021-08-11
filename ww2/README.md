@@ -43,7 +43,6 @@
 # America: The Why, How and When, along with why they did not enter the war sooner.
 
 ## WW1 compaired to WW2
-
 The beginning of World War I was simpler than the beginning of World War II. August 1914 saw a ‘big bang’ outbreak, with the five most powerful major European powers thrown immediately into conflict. September 1939 was the beginning of a war between only three major European powers (Britain, France and Germany). They were followed in June 1940 by Italy, in June 1941 by Russia, and in December 1941 by Japan and the USA – though the conflict as a whole had actually began in July 1937 with war between China and Japan.
 <param ve-image 
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
@@ -52,7 +51,6 @@ The beginning of World War I was simpler than the beginning of World War II. Aug
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
 <component ve-coords center="Q916958" zoom="15" tettle="something">
        
-      
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
 <param ve-image 
        label="Astronaut photograph of Pearl Harbor from October 2009" 
@@ -66,7 +64,6 @@ The American entry into World War I was also simpler than the American entry int
 <param ve-map center="Q127091" zoom="4" prefer-geojson>
        
 ## Intervention vs isolation: why didn’t America want to get involved?
-       
 The outbreak of full-scale conflict between Japan and China in July 1937 had little to do with the USA and its people. Neither did Germany’s pre-war actions in the 1930s: remilitarisation, sending troops into the Rhineland in 1936, forced unification with Austria, and destruction of Czechoslovakia after the 1938 Sudenten crisis. Even Hitler’s [invasion of Poland in September 1939](https://en.wikipedia.org/wiki/Invasion_of_Poland), and the declaration of war by Britain and France seemed to have little relevance to the USA. Yet President Franklin D Roosevelt, a Democrat elected for his second term of office in November 1936 also known as the  quarantine speech, had taken a public position of opposition to aggression by Japan, Italy, and Germany. He made a speech in Chicago in October 1937(Map in upper right), when he called for the “quarantine” of aggressive and warlike countries, and he also publicly condemned the nature of the Nazi government in Germany.
 <param ve-image 
        label="Last photograph of Roosevelt, taken April 11, 1945, the day before his death" 
@@ -74,8 +71,8 @@ The outbreak of full-scale conflict between Japan and China in July 1937 had lit
        license="public domain" 
        fit="scale-down"
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FDR-April-11-1945.jpg/1024px-FDR-April-11-1945.jpg">
+       <param ve-map center="Q2122297" zoom="11" prefer-geojson>
        
-<param ve-map center="Q2122297" zoom="11" prefer-geojson>
 Congress, however – although both houses were controlled by the Democrats – contained strong voices opposing intervention. This opposition was based on a long-term ‘isolationist’ tradition, whose adherents did not want America – protected as it was by broad oceans – to become ‘entangled’ with foreign countries and wars overseas. Both in Congress and among the American public, this sentiment had been strengthened by the experience of World War I, which isolationists claimed America had only entered in 1917 because US manufacturers wanted to make a profit by selling munitions.
 <param ve-image 
        label="Us Congress" 
@@ -132,7 +129,6 @@ Roosevelt nevertheless moved cautiously; there would be a Presidential election 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/PresidentialCounty1940Colorbrewer.gif/2560px-PresidentialCounty1940Colorbrewer.gif">       
   
  ## No clear mandate for war
-       
 Victory at the polls allowed the re-elected Roosevelt more freedom of action, but not a mandate to go to war. He did not want to fight Germany and Italy without wide backing. Instead he used his presidential powers to implement a decidedly one-sided neutrality. Already in September 1940 he had provided 50 obsolete American destroyers to Britain. Now, in the winter of 1940–41 he declared that America would be an Arsenal of Democracy, and he succeeded by March 1941 in putting through Congress Lend-Lease legislation, providing arms to Britain without direct payment. 
 <param ve-image 
        label="President Roosevelt signs the Lend-Lease bill to give aid to Britain and China (March 1941)." 
@@ -150,7 +146,6 @@ Secret staff talks were arranged in Washington early in 1941 between British and
 <param ve-map center="Q48335" title="Newfoundland" zoom="4" prefer-geojson>
        
 ## Pearl Harbor: Did Roosevelt have knowledge ahead of the attack?
-       
 The intelligence available to Washington, mainly from communications intercepts by American codebreakers, is a complex topic. Some conspiracy theorists claimed that President Roosevelt had advance warning of the Pearl Harbor attack but let it go ahead, as the outcome would be to rally US public opinion for war; this is certainly not true. The intelligence on hand did indicate imminent Japanese action in southeast Asia (probably against Britain), but not the daring strike against Pearl Harbor.
 <param ve-image 
        label="Photograph taken from a Japanese plane during the torpedo attack on ships moored on both sides of Ford Island shortly after the beginning of the Pearl Harbor attack. View looks about east, with the supply depot, submarine base and fuel tank farm in the right center distance. A torpedo has just hit USS West Virginia on the far side of Ford Island (center)" 
@@ -174,9 +169,7 @@ The intelligence available to Washington, mainly from communications intercepts 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/USS_West_Virginia2.jpg/1920px-USS_West_Virginia2.jpg">
        
-       
-       
-One day after the Pearl Harbor attack the us declared war on the empire of Japan. The Pearl Harbor raid was very successful for Japan in a military sense. Politically it was idiotic; it was mounted without a declaration of war, in the middle of negotiations, on a Sunday morning, on US territory, with heavy American loss of life. As the British ambassador to Washington put it in his diary: “If war was to come with Japan I can’t imagine any way in which they could have acted more completely to rally, unite and infuriate American opinion.”
+ One day after the Pearl Harbor attack the us declared war on the empire of Japan. The Pearl Harbor raid was very successful for Japan in a military sense. Politically it was idiotic; it was mounted without a declaration of war, in the middle of negotiations, on a Sunday morning, on US territory, with heavy American loss of life. As the British ambassador to Washington put it in his diary: “If war was to come with Japan I can’t imagine any way in which they could have acted more completely to rally, unite and infuriate American opinion.”
 <param ve-image 
        label="President Roosevelt, wearing a black armband, signs the United States’ declaration of war against Japan." 
        description="Roosevelt declaring war on Japan" 
