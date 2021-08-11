@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div>{{someText}}</div>
+<div></div>
 
 kkk
   </div>  
@@ -17,7 +17,6 @@ module.exports = {
     viewerIsActive: Boolean
   },
   data: () => ({
-  someText:"jim"
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
