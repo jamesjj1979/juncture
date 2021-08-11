@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div>{{jim}}</div>
+<div :class="jim"></div>
 
 kjbbnjbnkjbn
   </div>  
