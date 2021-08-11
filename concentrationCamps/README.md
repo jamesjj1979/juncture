@@ -31,6 +31,7 @@ Romany (Gypsies), Slavs (Poles, Russians),
 and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
+
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
 campaign to strip Jews of their property and
@@ -49,6 +50,7 @@ Versailles. “No salvation is possible,” Hitler had
 told his followers in 1922, “until the bearer of
 disunion, the Jew, has been rendered powerless
 to harm.”
+
 During a Nazi-provoked riot known as
 Kristallnacht (Night of Broken Glass) on
 November 9, 1938, at least 267 synagogues
@@ -108,6 +110,7 @@ her sisters, they saw mountains of eyeglasses,
 shoes, and clothing belonging to the victims.
 “We were shaking,” she said. “We knew the end
 was not going to be good.” 
+
 There were valorous efforts to resist the
 Holocaust. A number of armed uprisings in
 the ghettos and camps surprised the Nazis,
