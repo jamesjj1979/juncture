@@ -51,6 +51,7 @@ The beginning of World War I was simpler than the beginning of World War II. Aug
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
 <param ve-coords center="Q127091" zoom="4" >
+<component ve-coords center="Q127091" zoom="4">
        
 The American entry into World War I was also simpler than the American entry into World War II. By 1917 there was only limited opposition to taking part in the conflict. In April President Woodrow Wilson asked Congress for a declaration of war against Germany, largely in response to Berlin’s policy of unrestricted submarine warfare (sinking merchant ships without warning). The declaration was passed by 82 votes to 6 in the Senate, and by 373 to 50 in the House of Representatives. But the neutral USA entered World War II only after many months of argument in Congress and among the general public, and only when a Japanese fleet launched a big surprise air raid against its Pacific naval base at Pearl Harbor in Hawaii on 7 December 1941.
 <param ve-image 
