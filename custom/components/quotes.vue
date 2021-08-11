@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div ></div>
+<div >jbub</div>
 
   </div>  
 </template>
