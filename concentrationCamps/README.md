@@ -27,7 +27,7 @@ word of Greek origin. It means “burnt offering.”
        description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
-<component ve-coords center="Q916958" zoom="15" title="WW2">
+
 
 Anti-Semitism was a centuries-long
 phenomenon in Europe, but it reached
