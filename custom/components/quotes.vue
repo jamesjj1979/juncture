@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-something else
+What is happening
 
   </div>  
 </template>
