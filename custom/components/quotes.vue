@@ -8,10 +8,11 @@ kjbbnjbnkjbn
 </template>
 
 <script>
+var jim="jim"
+
 module.exports = {
   name: 'coords',
   props: { 
-    jim:"jim",
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
   },
