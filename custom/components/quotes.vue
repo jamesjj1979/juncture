@@ -3,7 +3,7 @@
 
 <div id="jim"></div>
 
-this is working
+wish it would work quicker
   </div>  
 </template>
 
