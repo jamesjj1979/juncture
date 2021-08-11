@@ -3,7 +3,7 @@
 
 <div id="jim"></div>
 
-wish it would work quicker
+wjim
   </div>  
 </template>
 
