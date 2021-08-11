@@ -1,8 +1,8 @@
 <template>
     <div id="map" :style="containerStyle"></div>
-
+​
 </template>
-
+​
 <script>
 const viewerLabel = 'Map Viewer'
 const viewerIcon = 'fas fa-map-marker-alt'
@@ -11,7 +11,7 @@ const dependencies = [
   'https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js',
   "https://raw.githubusercontent.com/jamesjj1979/Leaflet.MousePosition/master/src/L.Control.MousePosition.js",
   "https://raw.githubusercontent.com/jamesjj1979/Leaflet.MousePosition/master/src/L.Control.MousePosition.css"
-
+​
 ]
 // A leaflet baselayer
 const baseLayers = {
@@ -45,24 +45,23 @@ module.exports = {
     currentLayers: []
   }),
   computed: {
-    mapDef() { return this.items.find(item => item.viewer === this.$options.name) || {} },
+    mapDef() { return this.items.find(item => item.viewer === 've-coords') || {} },
     basemap() { return this.mapDef.basemap || defaults.basemap },
     center() { 
-      let coordsStr = this.entities[this.mapDef.center] ? this.entities[this.mapDef.center].coords : this.mapDef.center
-      return coordsStr ? this.toFloatArray(coordsStr) : defaults.center 
+      return this.entities[this.mapDef.center] ? this.entities[this.mapDef.center].coords : this.mapDef.center
     },
     zoom() { return this.mapDef.zoom || defaults.zoom },
     maxZoom() { return this.mapDef['max-zoom'] || defaults.maxZoom },
     layers() { return this.items.filter(item => item['ve-map-layer']) },
     markers() { return this.items.filter(item => item['ve-map-marker']) },
     mapStyle() { return {
-      width: `${this.width}px`,
+      width: '100%',
       height: this.viewerIsActive ? '100%' : '0',
       overflowY: 'auto !important',
       marginLeft: '0' }
     },
     containerStyle() { return {
-      width: `${this.width}px`,
+      width: '100%',
       height: this.viewerIsActive ? '100%' : '0' }
     }
   },
@@ -73,6 +72,7 @@ module.exports = {
       if (this.viewerIsActive) this.createMap()
     },
     createMap(reload) {
+      console.log(`createMap: exists=${this.map !== null}`)
       if (reload && this.map) {
         this.map.off()
         this.map.remove()
@@ -92,7 +92,8 @@ module.exports = {
         })       
       }
     },
-    toFloatArray(str) { return str.split(',').map(num => parseFloat(num))},
+    toFloatArray(str) { 
+      return str.split(',').map(num => parseFloat(num))},
     toIntArray(str) { return str.split(',').map(num => parseInt(num))},
     syncLayers() {
       console.log('syncLayers')
@@ -124,7 +125,7 @@ module.exports = {
     },
   },
   watch: {
-    active: {
+    viewerIsActive: {
       handler: function () { 
         console.log(`${this.$options.name}.active=${this.viewerIsActive}`) 
         if (this.viewerIsActive && !this.map) this.createMap()
@@ -157,10 +158,10 @@ module.exports = {
     }
   }
 }
-
-
+​
+​
 </script>
-
+​
 <style>
   .map-viewer {
     display: grid;
@@ -189,5 +190,5 @@ module.exports = {
     font-size: 0.9rem;
     font-weight: bold;
   }
-
+​
 </style>
