@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-now now?
+<div >{{inp}}</div>
 
   </div>  
 </template>
@@ -14,6 +14,7 @@ module.exports = {
     viewerIsActive: Boolean
   },
   data: () => ({
+  inp:"working"
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
