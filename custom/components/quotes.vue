@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim">{{tim}}</div>
+<div id="jim"></div>
 
 wm jbjkbnl
   </div>  
@@ -16,12 +16,12 @@ module.exports = {
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
   },
-  data: () => ({ return{
-  tim:'working'
+  data: () => ({
+  
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
-    }
+    
   }),
   computed: {
     containerStyle() { return { 
