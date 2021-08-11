@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div >{{inp}}</div>
+<div ></div>
 
   </div>  
 </template>
@@ -14,7 +14,6 @@ module.exports = {
     viewerIsActive: Boolean
   },
   data: () => ({
-    inp:"working",
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
