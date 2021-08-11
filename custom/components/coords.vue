@@ -29,7 +29,7 @@ const defaults = {
   iconSize: [40, 70]
 }
 module.exports = {
-  name: 've-simple-map',
+  name: 'coords',
   props: {
     items: { type: Array, default: () => ([]) },
     allItems: { type: Array, default: () => ([]) },
