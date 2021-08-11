@@ -1,14 +1,14 @@
 <template>
   <div :style="containerStyle">
 
-<div :class="jim"></div>
+<div>{{someText}}</div>
 
-k
+kkk
   </div>  
 </template>
 
 <script>
-var jim="jim"
+
 
 module.exports = {
   name: 'coords',
@@ -17,6 +17,7 @@ module.exports = {
     viewerIsActive: Boolean
   },
   data: () => ({
+  someText:"jim"
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
