@@ -3,8 +3,11 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q"> <!--  -->
 <param ve-entity eid="Q361"> <!-- ww1 -->
+
 # A brief overveiw of The atrosity of the holocost in WW2
+
 ## The beginning of the war
+
 The Holocaust was Nazi Germany’s deliberate,
 organized, state-sponsored persecution and
 machinelike murder of approximately six
@@ -69,7 +72,9 @@ in hiding. Like German-born Anne Frank and
 her family, who spent much of the war hiding
 in Amsterdam, they were usually found and
 shipped off to concentration camps. 
+
 ## During the middle of the war
+
 In January 1942, high-ranking Nazi Party
 officials met secretly in the Berlin suburb of
 Wannsee to formulate plans for “the Final
@@ -106,6 +111,7 @@ forest enclaves. Within the ghettos and the
 killing camps, acts of defiance, small or large,
 were suppressed and the brave dissidents
 savagely punished. 
+
 ## By the end of the war
 When the Allies began to close in on Germany
 in late 1944 and early 1945, the Nazis forced
