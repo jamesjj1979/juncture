@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div></div>
+<div>{{some}}</div>
 
 kkk
   </div>  
@@ -20,6 +20,9 @@ module.exports = {
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
+    return{
+      some:"hi im jim"
+    }
   }),
   computed: {
     containerStyle() { return { 
