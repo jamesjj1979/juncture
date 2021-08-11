@@ -3,7 +3,7 @@
 
 <div>{{some}}</div>
 
-kkk
+kk
   </div>  
 </template>
 
