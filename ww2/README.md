@@ -63,7 +63,7 @@ The American entry into World War I was also simpler than the American entry int
        description="Pearl Harbor pic with rhe uss Arizona" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
-<param ve-coords center="Q127091" zoom="4" prefer-geojson>
+
        
 ## Intervention vs isolation: why didn’t America want to get involved?
 The outbreak of full-scale conflict between Japan and China in July 1937 had little to do with the USA and its people. Neither did Germany’s pre-war actions in the 1930s: remilitarisation, sending troops into the Rhineland in 1936, forced unification with Austria, and destruction of Czechoslovakia after the 1938 Sudenten crisis. Even Hitler’s [invasion of Poland in September 1939](https://en.wikipedia.org/wiki/Invasion_of_Poland), and the declaration of war by Britain and France seemed to have little relevance to the USA. Yet President Franklin D Roosevelt, a Democrat elected for his second term of office in November 1936 also known as the  quarantine speech, had taken a public position of opposition to aggression by Japan, Italy, and Germany. He made a speech in Chicago in October 1937(Map in upper right), when he called for the “quarantine” of aggressive and warlike countries, and he also publicly condemned the nature of the Nazi government in Germany.
