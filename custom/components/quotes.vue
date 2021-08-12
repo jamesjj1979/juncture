@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
   <div v-html="myItem" id="quot"></div>
-  testing 14
+  testing 15
   </div>  
 </template>
 
@@ -39,7 +39,7 @@ module.exports = {
 <style>
 #quot{
 font-size: 25px;
-font-familty: Lucida Handwriting;
+font-familty: Lucida handwriting;
 color:red;
 }
 </style>
