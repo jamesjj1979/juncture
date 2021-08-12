@@ -29,7 +29,6 @@ module.exports = {
     init() {
     }
   }
-  console.log(items)
 }
 
 
