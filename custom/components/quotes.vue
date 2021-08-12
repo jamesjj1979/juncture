@@ -1,6 +1,6 @@
 <template>
   <div :style="containerStyle">
-  <div v-html="myItem, qt"> working now</div>
+  <div v-html="myItem,'qt'"> working now</div>
   Testing
   </div>  
 </template>
