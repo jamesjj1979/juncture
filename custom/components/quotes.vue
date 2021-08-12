@@ -14,6 +14,7 @@ module.exports = {
   props: { 
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
+    msg:"i am working"
   },
   data: () => ({
     viewerLabel: 'New Component',
