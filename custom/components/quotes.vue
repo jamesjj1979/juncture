@@ -1,6 +1,6 @@
 <template>
   <div :style="containerStyle">
-  <div> working</div>
+  <div> working now</div>
   Test
   </div>  
 </template>
@@ -29,6 +29,7 @@ module.exports = {
     init() {
     }
   }
+  console.log(items)
 }
 
 
