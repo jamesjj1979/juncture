@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
   <div v-html="myItem></div>
-  testing 5
+  testing 6
   </div>  
 </template>
 
@@ -19,7 +19,7 @@ module.exports = {
   }),
   computed: {
   filteredItems() { return this.items.filter(item => item[this.componentName]) },
-        myItem() { return this.filteredItems[0][qt] },
+        myItem() { return this.filteredItems[0] },
   containerStyle() { return { 
       position: 'relative',
       height: this.viewerIsActive ? '100%' : '0', 
