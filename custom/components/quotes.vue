@@ -2,7 +2,7 @@
   <div :style="containerStyle">
 
 <div id="jim"></div>
-please e
+please 
   </div>  
 </template>
 
