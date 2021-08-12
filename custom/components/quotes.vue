@@ -38,8 +38,7 @@ module.exports = {
     init() {
     }
   }
-}
-console.log(myItem)
+
 </script>
 
 <style>
