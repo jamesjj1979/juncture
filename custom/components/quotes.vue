@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim" >{{msg}}</div>
+<div id="jim" ></div>
 please work
   </div>  
 </template>
@@ -14,13 +14,13 @@ module.exports = {
   props: { 
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
-    msg:"i am working"
+   
   },
   data: () => ({
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
-    msg:"i am working"
+ 
     
     
   }),
