@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim" v-html="myItem,qt"></div>
+<div id="jim"></div>
 please e
   </div>  
 </template>
