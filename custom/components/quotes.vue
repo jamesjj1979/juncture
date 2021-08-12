@@ -2,7 +2,7 @@
   <div :style="containerStyle">
 
 <div id="jim" >{{msg}}</div>
-please work
+please 
   </div>  
 </template>
 
