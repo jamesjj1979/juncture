@@ -3,7 +3,7 @@
 
 <div id="jim"></div>
 
-in biznas
+please work
   </div>  
 </template>
 
