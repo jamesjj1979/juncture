@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
   <div v-html="myItem"></div>
-  testing 6
+  testing 7
   </div>  
 </template>
 
