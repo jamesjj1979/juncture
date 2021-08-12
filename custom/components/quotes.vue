@@ -2,7 +2,7 @@
   <div :style="containerStyle">
 
 <div id="jim" v-html="myItem,qt"></div>
-please 
+please e
   </div>  
 </template>
 
