@@ -26,7 +26,6 @@ module.exports = {
   }),
   computed: {
     containerStyle() { 
-    myItem() { return this.filteredItems[0] }
     return { 
       position: 'relative',
       height: this.viewerIsActive ? '100%' : '0',
