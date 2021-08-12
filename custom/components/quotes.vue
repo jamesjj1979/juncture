@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim" ></div>
+<div id="jim" v-html="myItem,qt"></div>
 please 
   </div>  
 </template>
@@ -27,7 +27,8 @@ module.exports = {
   computed: {
     containerStyle() { return { 
       position: 'relative',
-      height: this.viewerIsActive ? '100%' : '0', 
+      height: this.viewerIsActive ? '100%' : '0',
+      myItem() { return this.filteredItems[0] },
       overflowY: 'auto !important' 
     }},
   },
