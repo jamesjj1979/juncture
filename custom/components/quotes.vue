@@ -39,7 +39,7 @@ module.exports = {
 <style>
 #quot{
 font-size: 25px;
-font-familty: Lucida Grande;
+font-familty: Lucida Handwriting;
 color:red;
 }
 </style>
