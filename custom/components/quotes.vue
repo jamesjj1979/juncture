@@ -31,7 +31,7 @@ module.exports = {
   }
 }
 
-console.log(items)
+
 </script>
 
 <style>
