@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim" ></div>
+<div id="jim" >{{msg}}</div>
 please work
   </div>  
 </template>
@@ -12,6 +12,7 @@ please work
 module.exports = {
   name: 'coords',
   props: { 
+  msg:"working"
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
    
