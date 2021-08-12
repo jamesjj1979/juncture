@@ -16,13 +16,11 @@ module.exports = {
     viewerIsActive: Boolean
   },
   data: () => ({
-  
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
-    return{
     msg:"i am working"
-    }
+    
     
   }),
   computed: {
