@@ -40,5 +40,6 @@ module.exports = {
 #quot{
 font-size: 25px;
 font-familty: Open Sans;
+color:red;
 }
 </style>
