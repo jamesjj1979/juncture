@@ -1,6 +1,5 @@
 <template>
   <div :style="containerStyle">
-<div id="j">working still j</div>
   Test
   </div>  
 </template>
