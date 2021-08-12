@@ -25,12 +25,14 @@ module.exports = {
     
   }),
   computed: {
-    containerStyle() { return { 
+    containerStyle() { 
+    myItem() { return this.filteredItems[0] }
+    return { 
       position: 'relative',
       height: this.viewerIsActive ? '100%' : '0',
-      myItem() { return this.filteredItems[0] },
       overflowY: 'auto !important' 
     }},
+     
   },
   mounted() { this.loadDependencies(this.dependencies, 0, this.init) },
   methods: {
