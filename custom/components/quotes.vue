@@ -1,8 +1,7 @@
 <template>
   <div :style="containerStyle">
 
-<div id="jim"></div>
-
+<div id="jim" >{{msg}}</div>
 please work
   </div>  
 </template>
@@ -21,6 +20,9 @@ module.exports = {
     viewerLabel: 'New Component',
     viewerIcon: 'fas fa-file-code',
     dependencies: []
+    return{
+    msg:"i am working"
+    }
     
   }),
   computed: {
