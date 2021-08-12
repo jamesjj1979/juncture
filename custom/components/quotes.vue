@@ -1,7 +1,7 @@
 <template>
   <div :style="containerStyle">
-  <div v-html="myItem,'qt'"> working now</div>
-  Testing 1
+  <div v-html="myItem"> working now</div>
+  Testing 2
   </div>  
 </template>
 
