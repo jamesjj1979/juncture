@@ -1,6 +1,6 @@
 <template>
   <div :style="containerStyle">
-<div id="j">working</div>
+<div id="j">working still</div>
   Test
   </div>  
 </template>
@@ -11,6 +11,7 @@ module.exports = {
   props: { 
     items: { type: Array, default: () => ([]) },
     viewerIsActive: Boolean
+    console.log(items)
   },
   data: () => ({
     viewerLabel: 'New Component',
