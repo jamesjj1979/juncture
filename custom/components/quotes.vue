@@ -3,7 +3,7 @@
 
 <div id="jim"></div>
 
-wm jbjkbnl
+jjjjjj
   </div>  
 </template>
 
