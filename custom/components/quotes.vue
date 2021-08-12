@@ -1,7 +1,6 @@
 <template>
   <div :style="containerStyle">
-  <div v-html="myItem.qt"> working now</div>
-  Testing 4
+  <div v-html="myItem.qt"></div>
   </div>  
 </template>
 
