@@ -1,6 +1,6 @@
 <template>
   <div :style="containerStyle">
-  <div > working now</div>
+  <div v-html="myItem, qt"> working now</div>
   Tes
   </div>  
 </template>
@@ -18,7 +18,9 @@ module.exports = {
     dependencies: []
   }),
   computed: {
-    containerStyle() { return { 
+  filteredItems() { return this.items.filter(item => item[this.componentName]) },
+        myItem() { return this.filteredItems[0] },
+  containerStyle() { return { 
       position: 'relative',
       height: this.viewerIsActive ? '100%' : '0', 
       overflowY: 'auto !important' 
