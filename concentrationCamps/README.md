@@ -38,6 +38,11 @@ Romany (Gypsies), Slavs (Poles, Russians),
 and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
+<param ve-image 
+       label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
+       description="Presedent Franklin D Roosevelt." 
+       license="public domain" 
+       url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
        <param ve-image 
        label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
