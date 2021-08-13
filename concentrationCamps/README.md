@@ -43,11 +43,7 @@ deserve to live.
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
-       <param ve-image 
-       label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
-       description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
-       license="public domain" 
-       url="hhttps://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-R76619%2C_Russland%2C_Kesselschlacht_Stalingrad.jpg">
+    
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
