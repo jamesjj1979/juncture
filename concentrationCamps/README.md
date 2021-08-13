@@ -36,6 +36,11 @@ and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
 <param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
+<param ve-image 
        label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        license="public domain" 
