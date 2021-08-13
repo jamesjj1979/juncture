@@ -40,11 +40,7 @@ deserve to live.
        description="A pic of the US congress floor" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-<param ve-image 
-       label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
-       description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bookcover-1880-Marr-German_uber_Juden.jpg">
+
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
