@@ -24,11 +24,8 @@ million European Jews and at least five million
 prisoners of war, Romany, Jehovah’s Witnesses,
 homosexuals, and other victims. Holocaust is a
 word of Greek origin. It means “burnt offering.” 
-<param ve-quotes qt="'The Führer was of the opinion that [killing the incurably ill] would be easier and smoother to carry out in wartime, since the public resistance . . . from the churches would not play such a prominent role amidst the events of wartime as it otherwise would.'-Karl Brandt, Hitler’s attending physician, postwar testimony"
->
+<param ve-quotes qt="'The Führer was of the opinion that [killing the incurably ill] would be easier and smoother to carry out in wartime, since the public resistance . . . from the churches would not play such a prominent role amidst the events of wartime as it otherwise would.'-Karl Brandt, Hitler’s attending physician, postwar testimony">
 
-
-## somwthing
 
 Anti-Semitism was a centuries-long
 phenomenon in Europe, but it reached
