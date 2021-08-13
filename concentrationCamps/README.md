@@ -35,6 +35,11 @@ Romany (Gypsies), Slavs (Poles, Russians),
 and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
+<param ve-image 
+       label="Adveritsment in the daily sun about anti-semitism" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/43/Arthur_Szyk_%281894-1951%29._De_Profundis_%28Chicago_Sun%29_%281943%29%2C_Chicago.jpg">
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
@@ -54,6 +59,11 @@ Versailles. “No salvation is possible,” Hitler had
 told his followers in 1922, “until the bearer of
 disunion, the Jew, has been rendered powerless
 to harm.”
+ <param ve-image 
+       label="hitler" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Hitler_Green.png">
 
 During a Nazi-provoked riot known as
 Kristallnacht (Night of Broken Glass) on
@@ -85,6 +95,11 @@ in hiding. Like German-born Anne Frank and
 her family, who spent much of the war hiding
 in Amsterdam, they were usually found and
 shipped off to concentration camps. 
+<param ve-image 
+       label="memorial to the poeple killed that day" 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Kristallnacht_Wroc%C5%82aw_2006_03.jpg">
 
 ## During the middle of the war
 
@@ -114,6 +129,11 @@ her sisters, they saw mountains of eyeglasses,
 shoes, and clothing belonging to the victims.
 “We were shaking,” she said. “We knew the end
 was not going to be good.” 
+<param ve-image 
+       label="The villa where the so-called Wannsee Conference of 20 Janauary 1942 on the "Final Solution of the Jewish Question" was held: Berlin-Wannsee, 56-58 Am Grossen Wannsee. Seen from the street side." 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Wannseevilla.jpg">
 
 There were valorous efforts to resist the
 Holocaust. A number of armed uprisings in
@@ -125,7 +145,13 @@ forest enclaves. Within the ghettos and the
 killing camps, acts of defiance, small or large,
 were suppressed and the brave dissidents
 savagely punished. 
-
+  <param ve-image 
+       label="A ss Officer known to have supressed these riots with brutality." 
+       description="" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/5/55/Wilhelm_Rediess_%281900-45%29_SS-Standartenf%C3%BChrer_Allgemeine-SS_black_uniform_c._1933%E2%80%9334_Portrait_collection_of_Nazi_party_NSDAP_members_National_Archives_NARA_Unrestricted_No_known_copyright_242-HLT-4_%28cropped%29.jpg">
+       
+       
 ## By the end of the war
 When the Allies began to close in on Germany
 in late 1944 and early 1945, the Nazis forced
@@ -147,12 +173,14 @@ government officials in the United Kingdom and
 the United States. But it wasn’t until the camps
 were liberated that the full horror of Nazi crimes
 was exposed to the world.
-       
-   <param ve-image 
-       label="Seen in 1986 with Ford Island in center. The Arizona memorial is the small white dot on the left side above Ford Island" 
-       description="Pearl Harbor pic with rhe uss Arizona" 
+<param ve-image 
+       label="View of Gusen concentration camp after liberation" 
+       description="" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ford_Island_aerial_photo_RIMPAC_1986.JPEG/1920px-Ford_Island_aerial_photo_RIMPAC_1986.JPEG">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/56/View_of_Gusen_concentration_camp_after_liberation.jpg">
+       
+       
+       
 <param ve-map center="Q127091" zoom="4" prefer-geojson>
 # More Info
 This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
