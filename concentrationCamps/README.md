@@ -36,10 +36,10 @@ and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
 <param ve-image 
-       label="Adveritsment in the daily sun about anti-semitism" 
-       description="" 
+       label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
+       description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/43/Arthur_Szyk_%281894-1951%29._De_Profundis_%28Chicago_Sun%29_%281943%29%2C_Chicago.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bookcover-1880-Marr-German_uber_Juden.jpg">
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
