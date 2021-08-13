@@ -39,7 +39,7 @@ deserve to live.
        label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        license="public domain" 
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Yellowbadge_logo.svg/200px-Yellowbadge_logo.svg.png">
+url="hhttps://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-R76619%2C_Russland%2C_Kesselschlacht_Stalingrad.jpg">
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
