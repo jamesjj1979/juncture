@@ -36,10 +36,9 @@ and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
 <param ve-image 
-       label="Us Congress" 
-       description="A pic of the US congress floor" 
+       label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
+       description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 
 
 On assuming power as absolute ruler of the
@@ -60,6 +59,11 @@ Versailles. “No salvation is possible,” Hitler had
 told his followers in 1922, “until the bearer of
 disunion, the Jew, has been rendered powerless
 to harm.”
+<param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
  <param ve-image 
        label="hitler" 
        description="" 
@@ -97,6 +101,11 @@ her family, who spent much of the war hiding
 in Amsterdam, they were usually found and
 shipped off to concentration camps. 
 <param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
+<param ve-image 
        label="memorial to the poeple killed that day" 
        description="" 
        license="public domain" 
@@ -131,6 +140,11 @@ shoes, and clothing belonging to the victims.
 “We were shaking,” she said. “We knew the end
 was not going to be good.” 
 <param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
+<param ve-image 
        label="The villa where the so-called Wannsee Conference of 20 Janauary 1942 on the "Final Solution of the Jewish Question" was held: Berlin-Wannsee, 56-58 Am Grossen Wannsee. Seen from the street side." 
        description="" 
        license="public domain" 
@@ -146,6 +160,11 @@ forest enclaves. Within the ghettos and the
 killing camps, acts of defiance, small or large,
 were suppressed and the brave dissidents
 savagely punished. 
+<param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
   <param ve-image 
        label="A ss Officer known to have supressed these riots with brutality." 
        description="" 
@@ -174,6 +193,11 @@ government officials in the United Kingdom and
 the United States. But it wasn’t until the camps
 were liberated that the full horror of Nazi crimes
 was exposed to the world.
+<param ve-image 
+       label="Us Congress" 
+       description="A pic of the US congress floor" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
 <param ve-image 
        label="View of Gusen concentration camp after liberation" 
        description="" 
