@@ -38,11 +38,11 @@ Romany (Gypsies), Slavs (Poles, Russians),
 and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
-<param ve-image 
+       <param ve-image 
        label="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        description="Cover page of Marr's The Way to Victory of Germanicism over Judaism, 1880 edition" 
        license="public domain" 
-url="hhttps://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-R76619%2C_Russland%2C_Kesselschlacht_Stalingrad.jpg">
+       url="hhttps://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-R76619%2C_Russland%2C_Kesselschlacht_Stalingrad.jpg">
 
 On assuming power as absolute ruler of the
 German state, Hitler began a systematic
