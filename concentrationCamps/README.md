@@ -38,7 +38,7 @@ deserve to live.
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f7/105_Polish_Air_Force_MiG-29A_Fulcrum_ILA_Berlin_2016_10.jpg">
+       url="https://images.immediate.co.uk/production/volatile/sites/7/2019/09/GettyImages-515617090-42103e5.jpg?webp=true&quality=90&resize=510%2C413">
     
 
 On assuming power as absolute ruler of the
