@@ -38,7 +38,7 @@ deserve to live.
        label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c0/SC_190658_-_New_type_of_all-around_service_truck_made_at_Post_Ordnance._12_April%2C_1944.jpg">
+       url="">
     
 
 
