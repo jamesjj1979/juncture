@@ -35,7 +35,7 @@ and physically and mentally disabled people
 were Untermenschen (subhuman) and did not
 deserve to live. 
 <param ve-image 
-       label="The neutral USA entered World War II only after many months of argument in Congress and after the attack on Pearl Harbor. President Franklin D Roosevelt is pictured during the joint session of Congress, 8 December 1941." 
+       label="Hitler at the beggining of the war" 
        description="Presedent Franklin D Roosevelt." 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Hitler_Green.png">
@@ -61,16 +61,11 @@ Versailles. “No salvation is possible,” Hitler had
 told his followers in 1922, “until the bearer of
 disunion, the Jew, has been rendered powerless
 to harm.”
-<param ve-image 
-       label="Us Congress" 
-       description="A pic of the US congress floor" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
  <param ve-image 
-       label="hitler" 
+       label="burning of a synogauge in ww2" 
        description="" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Hitler_Green.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/63/Frankfurt_am_Main_Synagogue%3B_November_Pogroms.jpg">
 
 During a Nazi-provoked riot known as
 Kristallnacht (Night of Broken Glass) on
@@ -103,15 +98,12 @@ her family, who spent much of the war hiding
 in Amsterdam, they were usually found and
 shipped off to concentration camps. 
 <param ve-image 
-       label="Us Congress" 
+       label="concentration camps" 
        description="A pic of the US congress floor" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-<param ve-image 
-       label="memorial to the poeple killed that day" 
-       description="" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Kristallnacht_Wroc%C5%82aw_2006_03.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/5/56/View_of_Gusen_concentration_camp_after_liberation.jpg">
+
+
 
 ## During the middle of the war
 
