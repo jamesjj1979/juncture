@@ -134,15 +134,11 @@ shoes, and clothing belonging to the victims.
 “We were shaking,” she said. “We knew the end
 was not going to be good.” 
 <param ve-image 
-       label="Us Congress" 
+       label="This is the place that the high command cemented the final solution" 
        description="A pic of the US congress floor" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-<param ve-image 
-       label="The villa where the so-called Wannsee Conference of 20 Janauary 1942 on the "Final Solution of the Jewish Question" was held: Berlin-Wannsee, 56-58 Am Grossen Wannsee. Seen from the street side." 
-       description="" 
-       license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/9f/Wannseevilla.jpg">
+
 
 There were valorous efforts to resist the
 Holocaust. A number of armed uprisings in
@@ -155,15 +151,12 @@ killing camps, acts of defiance, small or large,
 were suppressed and the brave dissidents
 savagely punished. 
 <param ve-image 
-       label="Us Congress" 
+       label="German's quelling a jewish uprising in the warsaw ghetto in 1942" 
        description="A pic of the US congress floor" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-  <param ve-image 
-       label="A ss Officer known to have supressed these riots with brutality." 
-       description="" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/55/Wilhelm_Rediess_%281900-45%29_SS-Standartenf%C3%BChrer_Allgemeine-SS_black_uniform_c._1933%E2%80%9334_Portrait_collection_of_Nazi_party_NSDAP_members_National_Archives_NARA_Unrestricted_No_known_copyright_242-HLT-4_%28cropped%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0b/Stroop_Report_-_Warsaw_Ghetto_Uprising_06b.jpg">
+
+
        
        
 ## By the end of the war
@@ -188,19 +181,13 @@ the United States. But it wasn’t until the camps
 were liberated that the full horror of Nazi crimes
 was exposed to the world.
 <param ve-image 
-       label="Us Congress" 
+       label="forced march from Warsaw to Ausowithch concentration camp" 
        description="A pic of the US congress floor" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Senate_in_session.jpg/1920px-Senate_in_session.jpg">
-<param ve-image 
-       label="View of Gusen concentration camp after liberation" 
-       description="" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c0/SC_190658_-_New_type_of_all-around_service_truck_made_at_Post_Ordnance._12_April%2C_1944.jpghttps://upload.wikimedia.org/wikipedia/commons/c/c0/SC_190658_-_New_type_of_all-around_service_truck_made_at_Post_Ordnance._12_April%2C_1944.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bb/Stroop_Report_-_Warsaw_Ghetto_Uprising_10.jpg">
+
        
        
        
-<param ve-map center="Q127091" zoom="4" prefer-geojson>
-# More Info
-This a brief overview of America and there entering the war. If you would like to learn more about WW2 in general please go [here](https://en.wikipedia.org/wiki/World_War_II)
+
 
